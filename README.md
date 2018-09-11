@@ -1,7 +1,9 @@
 # zbird
 A spider for zbird.
 ## preview
-### running
+### Running
 ![](https://github.com/ZhanPwBibiBibi/zbird/blob/master/preview/data2.jpg)
-### done
+### Output
 ![](https://github.com/ZhanPwBibiBibi/zbird/blob/master/preview/data.jpg)
+## License
+MIT
